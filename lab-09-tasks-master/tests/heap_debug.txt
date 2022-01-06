@@ -1,0 +1,129 @@
+Testing insert round  0:
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +0  ==  +0 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing vertex (reference vs student_input) :       +1  ==  +1 
+Testing distance (reference vs student_input) :     +4  ==  +4 
+Testing insert round  1:
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +1  ==  +1 
+Testing poz vector (reference vs student_input) :   +0  ==  +0 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing vertex (reference vs student_input) :       +2  ==  +2 
+Testing distance (reference vs student_input) :     +2  ==  +2 
+Testing vertex (reference vs student_input) :       +1  ==  +1 
+Testing distance (reference vs student_input) :     +4  ==  +4 
+Testing insert round  2:
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +1  ==  +1 
+Testing poz vector (reference vs student_input) :   +2  ==  +2 
+Testing poz vector (reference vs student_input) :   +0  ==  +0 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing vertex (reference vs student_input) :       +3  ==  +3 
+Testing distance (reference vs student_input) :     +1  ==  +1 
+Testing vertex (reference vs student_input) :       +1  ==  +1 
+Testing distance (reference vs student_input) :     +4  ==  +4 
+Testing vertex (reference vs student_input) :       +2  ==  +2 
+Testing distance (reference vs student_input) :     +2  ==  +2 
+Testing insert round  3:
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +0  ==  +0 
+Testing poz vector (reference vs student_input) :   +2  ==  +2 
+Testing poz vector (reference vs student_input) :   +1  ==  +1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing vertex (reference vs student_input) :       +1  ==  +1 
+Testing distance (reference vs student_input) :     +0  ==  +0 
+Testing vertex (reference vs student_input) :       +3  ==  +3 
+Testing distance (reference vs student_input) :     +1  ==  +1 
+Testing vertex (reference vs student_input) :       +2  ==  +2 
+Testing distance (reference vs student_input) :     +2  ==  +2 
+Testing delete round  4:
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +1  ==  +1 
+Testing poz vector (reference vs student_input) :   +0  ==  +0 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing vertex (reference vs student_input) :       +3  ==  +3 
+Testing distance (reference vs student_input) :     +1  ==  +1 
+Testing vertex (reference vs student_input) :       +2  ==  +2 
+Testing distance (reference vs student_input) :     +2  ==  +2 
+Testing insert round  5:
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +1  ==  +1 
+Testing poz vector (reference vs student_input) :   +0  ==  +0 
+Testing poz vector (reference vs student_input) :   +2  ==  +2 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing vertex (reference vs student_input) :       +3  ==  +3 
+Testing distance (reference vs student_input) :     +1  ==  +1 
+Testing vertex (reference vs student_input) :       +2  ==  +2 
+Testing distance (reference vs student_input) :     +2  ==  +2 
+Testing vertex (reference vs student_input) :       +4  ==  +4 
+Testing distance (reference vs student_input) :     +6  ==  +6 
+Testing insert round  6:
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +1  ==  +1 
+Testing poz vector (reference vs student_input) :   +0  ==  +0 
+Testing poz vector (reference vs student_input) :   +2  ==  +2 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing vertex (reference vs student_input) :       +3  ==  +3 
+Testing distance (reference vs student_input) :     +0  ==  +0 
+Testing vertex (reference vs student_input) :       +2  ==  +2 
+Testing distance (reference vs student_input) :     +2  ==  +2 
+Testing vertex (reference vs student_input) :       +4  ==  +4 
+Testing distance (reference vs student_input) :     +6  ==  +6 
+Testing insert round  7:
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +1  ==  +1 
+Testing poz vector (reference vs student_input) :   +0  ==  +0 
+Testing poz vector (reference vs student_input) :   +2  ==  +2 
+Testing poz vector (reference vs student_input) :   +3  ==  +3 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing vertex (reference vs student_input) :       +3  ==  +3 
+Testing distance (reference vs student_input) :     +0  ==  +0 
+Testing vertex (reference vs student_input) :       +2  ==  +2 
+Testing distance (reference vs student_input) :     +2  ==  +2 
+Testing vertex (reference vs student_input) :       +4  ==  +4 
+Testing distance (reference vs student_input) :     +6  ==  +6 
+Testing vertex (reference vs student_input) :       +5  ==  +5 
+Testing distance (reference vs student_input) :     +4  ==  +4 
+Testing delete round  8:
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +0  ==  +0 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   +2  ==  +2 
+Testing poz vector (reference vs student_input) :   +1  ==  +1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing poz vector (reference vs student_input) :   -1  ==  -1 
+Testing vertex (reference vs student_input) :       +2  ==  +2 
+Testing distance (reference vs student_input) :     +2  ==  +2 
+Testing vertex (reference vs student_input) :       +5  ==  +5 
+Testing distance (reference vs student_input) :     +4  ==  +4 
+Testing vertex (reference vs student_input) :       +4  ==  +4 
+Testing distance (reference vs student_input) :     +6  ==  +6 

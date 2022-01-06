@@ -1,0 +1,17 @@
+4
+Popescu
+Ion
+77
+4 5 4 5 4
+Macarie
+Stefan
+55
+4 6 6 6 6
+Pompiliu
+Marian
+33
+4 5 5 5 5
+Niculescu
+Catrinel
+155
+4 7 6 4 8
